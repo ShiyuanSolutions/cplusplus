@@ -1,0 +1,9 @@
+*.o
+*.cmd
+*.mod.*
+*.pro
+*.Makefile
+a.out
+*-Desktop-Debug/
+*/.gitignore
+
